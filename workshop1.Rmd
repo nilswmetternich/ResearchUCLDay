@@ -1,0 +1,48 @@
+---
+title: "Workshop I"
+---
+
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### Session 1: Grant Presentation and Q&A (14:00-14:45)
+
+**Purpose: Gaining insights to grant writing**
+
+
+
+* Jeffrey Howard
+* Alan Renwick
+* Lisa Vanhala
+* Katerina Tertytchnaya
+
+### Session 2: Funding for research (15:00-16:00)
+
+**Purpose: Communicating research grant ideas and thinking about planning and needs to realize them**
+
+
+
+1. Please think about a research project/question/activity you are currently thinking or working on. (35min)
+
+*Please organize in groups of four and in turns: Present within your group of four*
+
++ Why are you excited about this project?
++ What is the contribution of the research? 
++ Does this project need funding?
++ Do you know where you can attain this funding?
+ (Hopefully there are some answers after the morning session)
++ Thinking about when to write the application, what period do you need and when will you realistically be able to block that amount of time.
+
+2. What support do you need to develop this funding application? (25min)
+
+*Please use the Post-Its to collect support needs, present your group needs to the forum at end of Session 2. Please take photo of Post-Its*
+
++ Peers, Internal, External, Administrative, Ethics, Risk etc
+
+
+
+
+

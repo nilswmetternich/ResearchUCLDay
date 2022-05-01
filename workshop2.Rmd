@@ -1,0 +1,44 @@
+---
+title: "Workshop II"
+---
+
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### Session 1: Supporting your research (14:00-14:45)
+**Purpose: a) Reflection and communication of own research b) Identifying departmental or other support needs for research.** 
+
+*Please form groups of 4 and discuss:*
+
+1. Do you enjoy your research? What do you enjoy about it?
+
+2. What do you find most stressful when doing or thinking about research?
+
+*In groups of 4, on Post-its, please document the following discussion and present at the end of Session I. Please stick post-its on wall and take a photo.*
+
+3. When thinking about your research: How could the department support your research better?
+  + e.g. enabling, resourcing, address things you find stressful (please include points that the department should push for on Faculty or Central level)
+
+4. What do you find most helpful in terms of practices, institutions, or support already in place in the department?
+
+
+### Session 2: Supporting research of others in a successful research environment (15:00-16:00)
+**Purpose: Advancing our research environment.** 
+
+1. When thinking about your own early career stage:
++ How were you supported?
++ When did you feel unsupported?
+
+2. When looking at Table 1 of [Ajjawi et al.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6120529/):
++ Areas we are doing well as a department
++ Areas where we need improvement at this point
+
+3. When thinking about the large number of new lectures:
++	How can we best support them?
++ Provide an example where you think support is evident
++ How could the mentorship program emphasize on research support?
+
+

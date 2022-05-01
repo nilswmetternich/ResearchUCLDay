@@ -1,0 +1,52 @@
+---
+title: "Agenda"
+---
+
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+
+
+
+#### Morning session 1 
+(Location)
+
+* 09:15 - Coffees and pastries
+* 09:45 - Welcome (Nils Metternich and Ben Lauderdale)
+* 10:15 - Grants available for different career stages (Steve Morrison)
+
+[Reading Link](https://liveuclac-my.sharepoint.com/:f:/g/personal/uctqnm0_ucl_ac_uk/EgtMfi_tMZBHq1Xpbu6RC5EBWVeZmXTzk1O7jVCanyKS0w?e=7gWG9Q)
+
+
+#### Coffee Break (10:45)
+
+#### Morning session 2 
+(Location)
+
+* 11:00 - The view of the funder (Mark Hamer - UCL)
+* 11:45 - The Departmental processes
+  + Monica Burgess (Time lines and budget)
+  + Nils Metternich (Departmental Selection process) 
+  + Rod Abouharb (Ethics)
+
+[Departmental Research Intranet Site](https://liveuclac.sharepoint.com/sites/PolSciIntranet/SitePages/Research.aspx)
+
+#### Lunch and coffees (12:30) 
+(Location)
+
+#### Afternoon Sessions 
+(Location)
+
+* 14:00 - Workshop Session (Early Career)
+* 14:00 - Workshop Session (Mid Career)
+* 14:00 - Workshop Session (Senior Career)
+
+[Reading](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6120529/)
+
+#### Drinks (16:00) 
+(Location)
+

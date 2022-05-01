@@ -1,0 +1,13 @@
+name: "cars"
+output_dir: "docs"
+navbar:
+  title: "Research Away Day"
+  left:
+    - text: "Welcome"
+      href: index.html
+    - text: "Agenda"
+      href: introduction.html
+    - text: "Workshop I"
+      href: workshop1.html
+    - text: "Workshop II"
+      href: workshop2.html
