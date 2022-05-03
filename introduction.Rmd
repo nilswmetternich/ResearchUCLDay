@@ -54,7 +54,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 [Aldridge_7](https://liveuclac-my.sharepoint.com/:f:/g/personal/uctqnm0_ucl_ac_uk/EgtMfi_tMZBHq1Xpbu6RC5EBWVeZmXTzk1O7jVCanyKS0w?e=7gWG9Q)
 
-* 14:00 - Workshop II (Mid Career) [Group and Room Allocation](https://nilswmetternich.github.io/ResearchUCLDay/Workshop2.pdf)
+* 14:00 - Workshop II (Mid/Senior Career) [Group and Room Allocation](https://nilswmetternich.github.io/ResearchUCLDay/Workshop2.pdf)
 
 [Ajjawi](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6120529/)
 
