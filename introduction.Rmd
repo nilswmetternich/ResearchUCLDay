@@ -21,6 +21,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 [Department Strategy](https://liveuclac-my.sharepoint.com/:f:/g/personal/uctqnm0_ucl_ac_uk/EgtMfi_tMZBHq1Xpbu6RC5EBWVeZmXTzk1O7jVCanyKS0w?e=7gWG9Q)
 
+[Aldridge_2](https://liveuclac-my.sharepoint.com/:f:/g/personal/uctqnm0_ucl_ac_uk/EgtMfi_tMZBHq1Xpbu6RC5EBWVeZmXTzk1O7jVCanyKS0w?e=7gWG9Q)
+
 [Folsom_Part_12](https://liveuclac-my.sharepoint.com/:f:/g/personal/uctqnm0_ucl_ac_uk/EgtMfi_tMZBHq1Xpbu6RC5EBWVeZmXTzk1O7jVCanyKS0w?e=7gWG9Q)
 
 
@@ -34,7 +36,9 @@ knitr::opts_chunk$set(echo = TRUE)
   + Monica Burgess (Time lines and budget)
   + Nils Metternich (Departmental Selection process) 
   + Rod Abouharb (Ethics)
-  
+
+[Aldridge_4](https://liveuclac-my.sharepoint.com/:f:/g/personal/uctqnm0_ucl_ac_uk/EgtMfi_tMZBHq1Xpbu6RC5EBWVeZmXTzk1O7jVCanyKS0w?e=7gWG9Q)
+
 [Folsom_Part_24](https://liveuclac-my.sharepoint.com/:f:/g/personal/uctqnm0_ucl_ac_uk/EgtMfi_tMZBHq1Xpbu6RC5EBWVeZmXTzk1O7jVCanyKS0w?e=7gWG9Q)
 
 
@@ -46,11 +50,13 @@ knitr::opts_chunk$set(echo = TRUE)
 #### Afternoon Sessions 
 (Location)
 
-* 14:00 - Workshop Session (Early Career)
-* 14:00 - Workshop Session (Mid Career)
-* 14:00 - Workshop Session (Senior Career)
+* 14:00 - Workshop I (Early Career)
 
-[Reading](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6120529/)
+[Aldridge_7](https://liveuclac-my.sharepoint.com/:f:/g/personal/uctqnm0_ucl_ac_uk/EgtMfi_tMZBHq1Xpbu6RC5EBWVeZmXTzk1O7jVCanyKS0w?e=7gWG9Q)
+
+* 14:00 - Workshop II (Mid Career)
+
+[Ajjawi](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6120529/)
 
 #### Drinks (16:00) 
 (Location)
