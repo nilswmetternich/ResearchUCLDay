@@ -17,7 +17,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 * 09:15 - Coffees and pastries
 * 09:45 - Welcome (Nils Metternich and Ben Lauderdale)
-* 10:15 - Grants available for different career stages (Steve Morrison)
+* 10:15 - Grants available for different career stages (Steve Morrison - [presentation](https://nilswmetternich.github.io/ResearchUCLDay/Morrison_pres.pdf))
 
 [Department Strategy](https://liveuclac-my.sharepoint.com/:f:/g/personal/uctqnm0_ucl_ac_uk/EgtMfi_tMZBHq1Xpbu6RC5EBWVeZmXTzk1O7jVCanyKS0w?e=7gWG9Q)
 
