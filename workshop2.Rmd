@@ -11,18 +11,24 @@ knitr::opts_chunk$set(echo = TRUE)
 ### Session 1: Supporting your research (14:00-14:45)
 **Purpose: a) Reflection and communication of own research b) Identifying departmental or other support needs for research.** 
 
-*Please form groups of 4 and discuss:*
+*Please form groups of 3 or 4 and discuss:*
 
 1. Do you enjoy your research? What do you enjoy about it?
 
 2. What do you find most stressful when doing or thinking about research?
 
+3. Please think about a research project/question/activity you are currently thinking or working on.
++ Does this project need funding?
++ Do you know where you can attain this funding?
+ (Hopefully there are some answers after the morning session)
+
+
 *In groups of 4, on Post-its, please document the following discussion and present at the end of Session I. Please stick post-its on wall and take a photo.*
 
-3. When thinking about your research: How could the department support your research better?
+4. When thinking about your research projects: How could the department support your research better?
   + e.g. enabling, resourcing, address things you find stressful (please include points that the department should push for on Faculty or Central level)
 
-4. What do you find most helpful in terms of practices, institutions, or support already in place in the department?
+5. What do you find most helpful in terms of practices, institutions, or support already in place in the department?
 
 
 ### Session 2: Supporting research of others in a successful research environment (15:00-16:00)
