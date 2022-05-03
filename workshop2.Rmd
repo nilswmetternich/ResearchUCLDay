@@ -42,7 +42,7 @@ knitr::opts_chunk$set(echo = TRUE)
 + Areas we are doing well as a department
 + Areas where we need improvement at this point
 
-3. When thinking about the large number of new lectures:
+3. When thinking about the large number of new Lecturers:
 +	How can we best support them?
 + Provide an example where you think support is evident
 + How could the mentorship program emphasize on research support?
