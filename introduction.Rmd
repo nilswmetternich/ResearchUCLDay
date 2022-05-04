@@ -16,7 +16,7 @@ knitr::opts_chunk$set(echo = TRUE)
 (31-34 Gordon Square, Archaeology G6 LT)
 
 * 09:15 - Coffees and pastries
-* 09:45 - Welcome (Nils Metternich and Ben Lauderdale)
+* 09:45 - Welcome (Nils Metternich and Ben Lauderdale) [presentation](https://nilswmetternich.github.io/ResearchUCLDay/ResearchAwayDayPres.pdf) 
 * 10:15 - Grants available for different career stages (Steve Morrison - [presentation](https://nilswmetternich.github.io/ResearchUCLDay/Morrison_pres.pdf))
 
 [Department Strategy](https://liveuclac-my.sharepoint.com/:f:/g/personal/uctqnm0_ucl_ac_uk/EgtMfi_tMZBHq1Xpbu6RC5EBWVeZmXTzk1O7jVCanyKS0w?e=7gWG9Q)
@@ -33,9 +33,9 @@ knitr::opts_chunk$set(echo = TRUE)
 
 * 11:00 - The view of the funder (Mark Hamer - UCL)
 * 11:45 - The Departmental processes
-  + Monica Burgess (Time lines and budget)
+  + Monica Burgess (Time lines and budget) [presentation](https://nilswmetternich.github.io/ResearchUCLDay/ResearchAD2022Monica.pdf)
   + Nils Metternich (Departmental Selection process) 
-  + Rod Abouharb (Ethics)
+  + Rod Abouharb (Ethics) [presentation](https://nilswmetternich.github.io/ResearchUCLDay/ReformingEthicsProcess.pdf)
 
 [Aldridge_4](https://liveuclac-my.sharepoint.com/:f:/g/personal/uctqnm0_ucl_ac_uk/EgtMfi_tMZBHq1Xpbu6RC5EBWVeZmXTzk1O7jVCanyKS0w?e=7gWG9Q)
 
