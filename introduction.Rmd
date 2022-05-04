@@ -50,7 +50,7 @@ knitr::opts_chunk$set(echo = TRUE)
 #### Afternoon Sessions 
 (36-38 Gordon Square)
 
-* 14:00 - Workshop I (Early Career) [Group and Room Allocation](https://nilswmetternich.github.io/ResearchUCLDay/Workshop1.pdf)
+* 14:00 - Workshop I (Early Career) Session 1 in B.03, Session 2 see [Group and Room Allocation](https://nilswmetternich.github.io/ResearchUCLDay/Workshop1.pdf)
 
 [Aldridge_7](https://liveuclac-my.sharepoint.com/:f:/g/personal/uctqnm0_ucl_ac_uk/EgtMfi_tMZBHq1Xpbu6RC5EBWVeZmXTzk1O7jVCanyKS0w?e=7gWG9Q)
 
