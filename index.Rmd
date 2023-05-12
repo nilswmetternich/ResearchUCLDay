@@ -1,19 +1,20 @@
 ---
-title: "Research Away Day 2022"
+title: "Research Away Day 2023"
 author: "UCL Department of Political Science"
-date: "5 May 2022"
+date: "8 Juni 2023"
 output: html_document
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+Location: [Goodenough College](https://www.goodenough.ac.uk)
 
 ## Welcome
 
 Welcome to the Research 'Away' Day Site. Here you can find the schedule for the day as well as links to recommended readings. You can also find the agendas for the afternoon sessions on this site.
 
-This research 'away' day wants to bring people in the department together and enable discussion about the very core of our scientific progress: Research. In particular, the reseach 'away' day focuses on community building, grant information, and thinking about how our research can attract funding where this is needed.  
+This research 'away' day wants to bring people in the department together and enable discussion about the very core of our scientific progress: Research. In particular, the reseach 'away' day focuses on community building, research strategy, and thinking about how our research can be impactful. 
 
 We are aware that participating in such day takes time from your research, but we hope that an investment in our research community and the potential learning outcomes will outweigh the time lost. 
 

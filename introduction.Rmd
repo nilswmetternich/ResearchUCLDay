@@ -10,20 +10,17 @@ knitr::opts_chunk$set(echo = TRUE)
 
 
 
-
-
 #### Morning session 1 
-(31-34 Gordon Square, Archaeology G6 LT)
+[Goodenough College](https://www.goodenough.ac.uk)
 
-* 09:15 - Coffees and pastries
-* 09:45 - Welcome (Nils Metternich and Ben Lauderdale) [presentation](https://nilswmetternich.github.io/ResearchUCLDay/ResearchAwayDayPres.pdf) 
-* 10:15 - Grants available for different career stages (Steve Morrison - [presentation](https://nilswmetternich.github.io/ResearchUCLDay/Morrison_pres.pdf))
+* 09:45 - Coffees and pastries
+* 10:00 - Intro: Research and Impact (Alan Renwick; Christian Schuster; Nils Metternich) [presentation](https://nilswmetternich.github.io/ResearchUCLDay/ResearchAwayDayPres.pdf) 
+* 10:15 - Celebrating impact (TBA - [presentation](https://nilswmetternich.github.io/ResearchUCLDay/Morrison_pres.pdf))
+  + [Meg Russell](https://liveuclac-my.sharepoint.com/:f:/g/personal/uctqnm0_ucl_ac_uk/EgtMfi_tMZBHq1Xpbu6RC5EBWVeZmXTzk1O7jVCanyKS0w?e=7gWG9Q)
+  + [Dan Honig](https://liveuclac-my.sharepoint.com/:f:/g/personal/uctqnm0_ucl_ac_uk/EgtMfi_tMZBHq1Xpbu6RC5EBWVeZmXTzk1O7jVCanyKS0w?e=7gWG9Q)
 
-[Department Strategy](https://liveuclac-my.sharepoint.com/:f:/g/personal/uctqnm0_ucl_ac_uk/EgtMfi_tMZBHq1Xpbu6RC5EBWVeZmXTzk1O7jVCanyKS0w?e=7gWG9Q)
 
-[Aldridge_2](https://liveuclac-my.sharepoint.com/:f:/g/personal/uctqnm0_ucl_ac_uk/EgtMfi_tMZBHq1Xpbu6RC5EBWVeZmXTzk1O7jVCanyKS0w?e=7gWG9Q)
-
-[Folsom_Part_12](https://liveuclac-my.sharepoint.com/:f:/g/personal/uctqnm0_ucl_ac_uk/EgtMfi_tMZBHq1Xpbu6RC5EBWVeZmXTzk1O7jVCanyKS0w?e=7gWG9Q)
+[Resources](https://liveuclac-my.sharepoint.com/:f:/g/personal/uctqnm0_ucl_ac_uk/EgtMfi_tMZBHq1Xpbu6RC5EBWVeZmXTzk1O7jVCanyKS0w?e=7gWG9Q)
 
 
 #### Coffee Break (10:45)
@@ -31,18 +28,15 @@ knitr::opts_chunk$set(echo = TRUE)
 #### Morning session 2 
 (31-34 Gordon Square, Archaeology G6 LT)
 
-* 11:00 - The view of the funder (Mark Hamer - UCL)
-* 11:45 - The Departmental processes
-  + Monica Burgess (Time lines and budget) [presentation](https://nilswmetternich.github.io/ResearchUCLDay/ResearchAD2022Monica.pdf)
-  + Nils Metternich (Departmental Selection process) 
-  + Rod Abouharb (Ethics) [presentation](https://nilswmetternich.github.io/ResearchUCLDay/ReformingEthicsProcess.pdf)
+* 11:00 - REF and Impact (Alan Remwick)
+* 11:30 - Grant writing and impact (Helen Stark)
+* 12:00 - Ways to support your impact
+  + Christian Schuster (Policy Lab) [presentation](https://nilswmetternich.github.io/ResearchUCLDay/ResearchAD2022Monica.pdf)
+  + Mariana Trejo (UCL Knowledge Exchange) 
 
-[Aldridge_4](https://liveuclac-my.sharepoint.com/:f:/g/personal/uctqnm0_ucl_ac_uk/EgtMfi_tMZBHq1Xpbu6RC5EBWVeZmXTzk1O7jVCanyKS0w?e=7gWG9Q)
+[Resources I](https://liveuclac-my.sharepoint.com/:f:/g/personal/uctqnm0_ucl_ac_uk/EgtMfi_tMZBHq1Xpbu6RC5EBWVeZmXTzk1O7jVCanyKS0w?e=7gWG9Q)
 
-[Folsom_Part_24](https://liveuclac-my.sharepoint.com/:f:/g/personal/uctqnm0_ucl_ac_uk/EgtMfi_tMZBHq1Xpbu6RC5EBWVeZmXTzk1O7jVCanyKS0w?e=7gWG9Q)
-
-
-[Departmental Research Intranet Site](https://liveuclac.sharepoint.com/sites/PolSciIntranet/SitePages/Research.aspx)
+[Resources II](https://liveuclac-my.sharepoint.com/:f:/g/personal/uctqnm0_ucl_ac_uk/EgtMfi_tMZBHq1Xpbu6RC5EBWVeZmXTzk1O7jVCanyKS0w?e=7gWG9Q)
 
 #### Lunch and coffees (12:30) 
 (36-38 Gordon Square)
@@ -50,13 +44,11 @@ knitr::opts_chunk$set(echo = TRUE)
 #### Afternoon Sessions 
 (36-38 Gordon Square)
 
-* 14:00 - Workshop I (Early Career) Session 1 in B.03, Session 2 see [Group and Room Allocation](https://nilswmetternich.github.io/ResearchUCLDay/Workshop1.pdf)
+* 13:30 - Presentation of old strategy [Group and Room Allocation](https://nilswmetternich.github.io/ResearchUCLDay/Workshop1.pdf)
 
-[Aldridge_7](https://liveuclac-my.sharepoint.com/:f:/g/personal/uctqnm0_ucl_ac_uk/EgtMfi_tMZBHq1Xpbu6RC5EBWVeZmXTzk1O7jVCanyKS0w?e=7gWG9Q)
+* 14:00 - Workshop I: Values. Are values still right? [Group and Room Allocation](https://nilswmetternich.github.io/ResearchUCLDay/Workshop2.pdf)
 
-* 14:00 - Workshop II (Mid/Senior Career) [Group and Room Allocation](https://nilswmetternich.github.io/ResearchUCLDay/Workshop2.pdf)
-
-[Ajjawi](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6120529/)
+* 15:00 - Workshop II: Values. What is it that we want to do? How can we achiev it? [Group and Room Allocation](https://nilswmetternich.github.io/ResearchUCLDay/Workshop2.pdf)
 
 #### Drinks (16:00) 
 (36-38 Gordon Square)

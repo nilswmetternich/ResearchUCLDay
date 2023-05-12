@@ -1,0 +1,137 @@
+---
+title: "Research Away Day 2022"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+
+#### Morning session 1 
+(31-34 Gordon Square, Archaeology G6 LT)
+
+* 09:15 - Coffees and pastries
+* 09:45 - Welcome (Nils Metternich and Ben Lauderdale) [presentation](https://nilswmetternich.github.io/ResearchUCLDay/ResearchAwayDayPres.pdf) 
+* 10:15 - Grants available for different career stages (Steve Morrison - [presentation](https://nilswmetternich.github.io/ResearchUCLDay/Morrison_pres.pdf))
+
+[Department Strategy](https://liveuclac-my.sharepoint.com/:f:/g/personal/uctqnm0_ucl_ac_uk/EgtMfi_tMZBHq1Xpbu6RC5EBWVeZmXTzk1O7jVCanyKS0w?e=7gWG9Q)
+
+[Aldridge_2](https://liveuclac-my.sharepoint.com/:f:/g/personal/uctqnm0_ucl_ac_uk/EgtMfi_tMZBHq1Xpbu6RC5EBWVeZmXTzk1O7jVCanyKS0w?e=7gWG9Q)
+
+[Folsom_Part_12](https://liveuclac-my.sharepoint.com/:f:/g/personal/uctqnm0_ucl_ac_uk/EgtMfi_tMZBHq1Xpbu6RC5EBWVeZmXTzk1O7jVCanyKS0w?e=7gWG9Q)
+
+
+#### Coffee Break (10:45)
+
+#### Morning session 2 
+(31-34 Gordon Square, Archaeology G6 LT)
+
+* 11:00 - The view of the funder (Mark Hamer - UCL)
+* 11:45 - The Departmental processes
+  + Monica Burgess (Time lines and budget) [presentation](https://nilswmetternich.github.io/ResearchUCLDay/ResearchAD2022Monica.pdf)
+  + Nils Metternich (Departmental Selection process) 
+  + Rod Abouharb (Ethics) [presentation](https://nilswmetternich.github.io/ResearchUCLDay/ReformingEthicsProcess.pdf)
+
+[Aldridge_4](https://liveuclac-my.sharepoint.com/:f:/g/personal/uctqnm0_ucl_ac_uk/EgtMfi_tMZBHq1Xpbu6RC5EBWVeZmXTzk1O7jVCanyKS0w?e=7gWG9Q)
+
+[Folsom_Part_24](https://liveuclac-my.sharepoint.com/:f:/g/personal/uctqnm0_ucl_ac_uk/EgtMfi_tMZBHq1Xpbu6RC5EBWVeZmXTzk1O7jVCanyKS0w?e=7gWG9Q)
+
+
+[Departmental Research Intranet Site](https://liveuclac.sharepoint.com/sites/PolSciIntranet/SitePages/Research.aspx)
+
+#### Lunch and coffees (12:30) 
+(36-38 Gordon Square)
+
+#### Afternoon Sessions 
+(36-38 Gordon Square)
+
+* 14:00 - Workshop I (Early Career) Session 1 in B.03, Session 2 see [Group and Room Allocation](https://nilswmetternich.github.io/ResearchUCLDay/Workshop1.pdf)
+
+[Aldridge_7](https://liveuclac-my.sharepoint.com/:f:/g/personal/uctqnm0_ucl_ac_uk/EgtMfi_tMZBHq1Xpbu6RC5EBWVeZmXTzk1O7jVCanyKS0w?e=7gWG9Q)
+
+* 14:00 - Workshop II (Mid/Senior Career) [Group and Room Allocation](https://nilswmetternich.github.io/ResearchUCLDay/Workshop2.pdf)
+
+[Ajjawi](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6120529/)
+
+#### Drinks (16:00) 
+(36-38 Gordon Square)
+
+
+
+
+### Session W1.1: Grant Presentation and Q&A (14:00-14:45)
+
+**Purpose: Gaining insights to grant writing**
+
+
+
+* Jeffrey Howard
+* Alan Renwick
+* Lisa Vanhala
+* Katerina Tertytchnaya
+
+### Session W1.2: Funding for research (15:00-16:00)
+
+**Purpose: Communicating research grant ideas and thinking about planning and needs to realize them**
+
+
+
+1. Please think about a research project/question/activity you are currently thinking or working on. (35min)
+
+*Please organize in groups of four and in turns: Present within your group of four*
+
++ Why are you excited about this project?
++ What is the contribution of the research? 
++ Does this project need funding?
++ Do you know where you can attain this funding?
+ (Hopefully there are some answers after the morning session)
++ Thinking about when to write the application, what period do you need and when will you realistically be able to block that amount of time.
+
+2. What support do you need to develop this funding application? (25min)
+
+*Please use the Post-Its to collect support needs, present your group needs to the forum at end of Session 2. Please take photo of Post-Its*
+
++ Peers, Internal, External, Administrative, Ethics, Risk etc
+
+
+
+### Session W2.1: Supporting your research (14:00-14:45)
+**Purpose: a) Reflection and communication of own research b) Identifying departmental or other support needs for research.** 
+
+*Please form groups of 3 or 4 and discuss:*
+
+1. Do you enjoy your research? What do you enjoy about it?
+
+2. What do you find most stressful when doing or thinking about research?
+
+3. Please think about a research project/question/activity you are currently thinking or working on.
++ Does this project need funding?
++ Do you know where you can attain this funding?
+ (Hopefully there are some answers after the morning session)
+
+
+*In groups of 4, on Post-its, please document the following discussion and present at the end of Session I. Please stick post-its on wall and take a photo.*
+
+4. When thinking about your research projects: How could the department support your research better?
+  + e.g. enabling, resourcing, address things you find stressful (please include points that the department should push for on Faculty or Central level)
+
+5. What do you find most helpful in terms of practices, institutions, or support already in place in the department?
+
+
+### Session W2.2: Supporting research of others in a successful research environment (15:00-16:00)
+**Purpose: Advancing our research environment.** 
+
+1. When thinking about your own early career stage:
++ How were you supported?
++ When did you feel unsupported?
+
+2. When looking at Table 1 of [Ajjawi et al.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6120529/):
++ Areas we are doing well as a department
++ Areas where we need improvement at this point
+
+3. When thinking about the large number of new Lecturers:
++	How can we best support them?
++ Provide an example where you think support is evident
++ How could the mentorship program emphasize on research support?
+
