@@ -18,31 +18,38 @@ knitr::opts_chunk$set(echo = TRUE)
 * 10:15 - Celebrating impact (TBA - [presentation](https://nilswmetternich.github.io/ResearchUCLDay/Morrison_pres.pdf))
   + [Meg Russell](https://liveuclac-my.sharepoint.com/:f:/g/personal/uctqnm0_ucl_ac_uk/EgtMfi_tMZBHq1Xpbu6RC5EBWVeZmXTzk1O7jVCanyKS0w?e=7gWG9Q)
   + [Dan Honig](https://liveuclac-my.sharepoint.com/:f:/g/personal/uctqnm0_ucl_ac_uk/EgtMfi_tMZBHq1Xpbu6RC5EBWVeZmXTzk1O7jVCanyKS0w?e=7gWG9Q)
-
+  + [TBA](https://liveuclac-my.sharepoint.com/:f:/g/personal/uctqnm0_ucl_ac_uk/EgtMfi_tMZBHq1Xpbu6RC5EBWVeZmXTzk1O7jVCanyKS0w?e=7gWG9Q)
+  + [TBA](https://liveuclac-my.sharepoint.com/:f:/g/personal/uctqnm0_ucl_ac_uk/EgtMfi_tMZBHq1Xpbu6RC5EBWVeZmXTzk1O7jVCanyKS0w?e=7gWG9Q)
+  + [TBA](https://liveuclac-my.sharepoint.com/:f:/g/personal/uctqnm0_ucl_ac_uk/EgtMfi_tMZBHq1Xpbu6RC5EBWVeZmXTzk1O7jVCanyKS0w?e=7gWG9Q)
+* 10:45 - Breakout: My impact, my ambition
 
 [Resources](https://liveuclac-my.sharepoint.com/:f:/g/personal/uctqnm0_ucl_ac_uk/EgtMfi_tMZBHq1Xpbu6RC5EBWVeZmXTzk1O7jVCanyKS0w?e=7gWG9Q)
 
 
-#### Coffee Break (10:45)
+
+#### Coffee Break (11:00)
 
 #### Morning session 2 
-(31-34 Gordon Square, Archaeology G6 LT)
 
-* 11:00 - REF and Impact (Alan Remwick)
-* 11:30 - Grant writing and impact (Helen Stark)
-* 12:00 - Ways to support your impact
-  + Christian Schuster (Policy Lab) [presentation](https://nilswmetternich.github.io/ResearchUCLDay/ResearchAD2022Monica.pdf)
+* 11:15 - Ways to support your impact
+  + Marc Stears and/or Christian Schuster (Policy Lab) [presentation](https://nilswmetternich.github.io/ResearchUCLDay/ResearchAD2022Monica.pdf)
   + Mariana Trejo (UCL Knowledge Exchange) 
+* 11:30 - Grant writing and impact (Helen Stark)  
+* 11:45 - Breakout: Thinking about how to achieve own impact
+
+* 12:15 - REF and Impact (Alan Remwick)
+
+
 
 [Resources I](https://liveuclac-my.sharepoint.com/:f:/g/personal/uctqnm0_ucl_ac_uk/EgtMfi_tMZBHq1Xpbu6RC5EBWVeZmXTzk1O7jVCanyKS0w?e=7gWG9Q)
 
 [Resources II](https://liveuclac-my.sharepoint.com/:f:/g/personal/uctqnm0_ucl_ac_uk/EgtMfi_tMZBHq1Xpbu6RC5EBWVeZmXTzk1O7jVCanyKS0w?e=7gWG9Q)
 
 #### Lunch and coffees (12:30) 
-(36-38 Gordon Square)
+[Goodenough College](https://www.goodenough.ac.uk)
 
 #### Afternoon Sessions 
-(36-38 Gordon Square)
+[Goodenough College](https://www.goodenough.ac.uk)
 
 * 13:30 - Presentation of old strategy [Group and Room Allocation](https://nilswmetternich.github.io/ResearchUCLDay/Workshop1.pdf)
 
@@ -51,5 +58,5 @@ knitr::opts_chunk$set(echo = TRUE)
 * 15:00 - Workshop II: Values. What is it that we want to do? How can we achiev it? [Group and Room Allocation](https://nilswmetternich.github.io/ResearchUCLDay/Workshop2.pdf)
 
 #### Drinks (16:00) 
-(36-38 Gordon Square)
+TBA
 
