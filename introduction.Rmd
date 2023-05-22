@@ -55,6 +55,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 * 14:00 - Workshop I: Values. Are values still right? [Group and Room Allocation](https://nilswmetternich.github.io/ResearchUCLDay/Workshop2.pdf)
 
+#### Coffee Break (14:45)
+
 * 15:00 - Workshop II: Values. What is it that we want to do? How can we achiev it? [Group and Room Allocation](https://nilswmetternich.github.io/ResearchUCLDay/Workshop2.pdf)
 
 #### Drinks (16:00) 
