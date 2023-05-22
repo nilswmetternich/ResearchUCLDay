@@ -13,8 +13,8 @@ knitr::opts_chunk$set(echo = TRUE)
 #### Morning session 1 
 [Goodenough College](https://www.goodenough.ac.uk)
 
-* 09:45 - Coffees and pastries
-* 10:00 - Intro: Research and Impact (Alan Renwick; Christian Schuster; Nils Metternich) [presentation](https://nilswmetternich.github.io/ResearchUCLDay/ResearchAwayDayPres.pdf) 
+* 09:30 - Coffees and pastries
+* 09:45 - Intro: Research and Impact (Alan Renwick; Christian Schuster; Nils Metternich) [presentation](https://nilswmetternich.github.io/ResearchUCLDay/ResearchAwayDayPres.pdf) 
 * 10:15 - Celebrating impact (TBA - [presentation](https://nilswmetternich.github.io/ResearchUCLDay/Morrison_pres.pdf))
   + [Meg Russell](https://liveuclac-my.sharepoint.com/:f:/g/personal/uctqnm0_ucl_ac_uk/EgtMfi_tMZBHq1Xpbu6RC5EBWVeZmXTzk1O7jVCanyKS0w?e=7gWG9Q)
   + [Dan Honig](https://liveuclac-my.sharepoint.com/:f:/g/personal/uctqnm0_ucl_ac_uk/EgtMfi_tMZBHq1Xpbu6RC5EBWVeZmXTzk1O7jVCanyKS0w?e=7gWG9Q)
