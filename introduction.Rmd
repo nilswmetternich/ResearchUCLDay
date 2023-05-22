@@ -57,7 +57,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 #### Coffee Break (14:45)
 
-* 15:00 - Workshop II: Values. What is it that we want to do? How can we achiev it? [Group and Room Allocation](https://nilswmetternich.github.io/ResearchUCLDay/Workshop2.pdf)
+* 15:00 - Workshop II: What is it that we want to do? How can we achieve it? [Group and Room Allocation](https://nilswmetternich.github.io/ResearchUCLDay/Workshop2.pdf)
 
 #### Drinks (16:00) 
 TBA
