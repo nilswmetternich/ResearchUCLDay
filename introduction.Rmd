@@ -15,13 +15,17 @@ knitr::opts_chunk$set(echo = TRUE)
 
 * 09:20 - Coffees and pastries
 * 09:45 - Intro: Research and Impact (Alan Renwick; Christian Schuster; Nils Metternich) [presentation](https://nilswmetternich.github.io/ResearchUCLDay/ResearchAwayDayPres.pdf) 
-* 10:15 - Celebrating impact (TBA - [presentation](https://nilswmetternich.github.io/ResearchUCLDay/Morrison_pres.pdf))
-  + [Meg Russell](https://liveuclac-my.sharepoint.com/:f:/g/personal/uctqnm0_ucl_ac_uk/EgtMfi_tMZBHq1Xpbu6RC5EBWVeZmXTzk1O7jVCanyKS0w?e=7gWG9Q)
-  + [Dan Honig](https://liveuclac-my.sharepoint.com/:f:/g/personal/uctqnm0_ucl_ac_uk/EgtMfi_tMZBHq1Xpbu6RC5EBWVeZmXTzk1O7jVCanyKS0w?e=7gWG9Q)
-  + [Lauge Poulsen](https://liveuclac-my.sharepoint.com/:f:/g/personal/uctqnm0_ucl_ac_uk/EgtMfi_tMZBHq1Xpbu6RC5EBWVeZmXTzk1O7jVCanyKS0w?e=7gWG9Q)
-  + [Veronika Fikfak](https://liveuclac-my.sharepoint.com/:f:/g/personal/uctqnm0_ucl_ac_uk/EgtMfi_tMZBHq1Xpbu6RC5EBWVeZmXTzk1O7jVCanyKS0w?e=7gWG9Q)
-  + [Moritz Marbach](https://liveuclac-my.sharepoint.com/:f:/g/personal/uctqnm0_ucl_ac_uk/EgtMfi_tMZBHq1Xpbu6RC5EBWVeZmXTzk1O7jVCanyKS0w?e=7gWG9Q)
+* 10:15 - Celebrating impact
+  + [Meg Russell](https://www.ucl.ac.uk/constitution-unit/about-us/people/professor-meg-russell)
+  + [Dan Honig](https://danhonig.info)
+  + [Lauge Poulsen](https://www.ucl.ac.uk/political-science/people/academic-teaching-and-research-staff/professor-lauge-poulsen)
+  + [Veronika Fikfak](https://www.humanrightsnudge.com)
+  + [Moritz Marbach](https://moritz-marbach.com)
+  + [Inken von Borzyskowski](https://www.borzyskowski.net)
+  + [Fergus Green](https://fergusgreen.net)
+  
 * 10:45 - Breakout: My impact, my ambition
+
 
 [Resources](https://liveuclac-my.sharepoint.com/:f:/g/personal/uctqnm0_ucl_ac_uk/EgtMfi_tMZBHq1Xpbu6RC5EBWVeZmXTzk1O7jVCanyKS0w?e=7gWG9Q)
 
