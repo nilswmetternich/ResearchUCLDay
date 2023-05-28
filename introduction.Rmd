@@ -27,7 +27,7 @@ knitr::opts_chunk$set(echo = TRUE)
 * 10:45 - Breakout: My impact, my ambition
 
 
-[Resources](https://liveuclac-my.sharepoint.com/:f:/g/personal/uctqnm0_ucl_ac_uk/EgtMfi_tMZBHq1Xpbu6RC5EBWVeZmXTzk1O7jVCanyKS0w?e=7gWG9Q)
+[Effects of evidence-use in public policy](https://sumtxt.github.io/DEPP/course/course-10.html)
 
 
 
@@ -35,19 +35,25 @@ knitr::opts_chunk$set(echo = TRUE)
 
 #### Morning session 2 
 
-* 11:15 - Ways to support your impact
-  + Marc Stears and/or Christian Schuster (Policy Lab) [presentation](https://nilswmetternich.github.io/ResearchUCLDay/ResearchAD2022Monica.pdf)
+* 11:15 - Ways to support your impact 
+  + Marc Stears and/or Christian Schuster (Policy Lab)
   + Mariana Trejo (UCL Knowledge Exchange) 
 * 11:30 - Grant writing and impact (Helen Stark)  
 * 11:45 - Breakout: Thinking about how to achieve own impact
 
-* 12:15 - REF and Impact (Alan Remwick)
+* 12:15 - REF and Impact (Alan Renwick)
 
 
 
-[Resources I](https://liveuclac-my.sharepoint.com/:f:/g/personal/uctqnm0_ucl_ac_uk/EgtMfi_tMZBHq1Xpbu6RC5EBWVeZmXTzk1O7jVCanyKS0w?e=7gWG9Q)
+[Resources I](https://www.research-strategy.admin.cam.ac.uk/pathwaytoimpact/index.html)
 
-[Resources II](https://liveuclac-my.sharepoint.com/:f:/g/personal/uctqnm0_ucl_ac_uk/EgtMfi_tMZBHq1Xpbu6RC5EBWVeZmXTzk1O7jVCanyKS0w?e=7gWG9Q)
+[Resources II](https://www.eui.eu/Documents/MWP/AcademicCareers/ACO-conf-201819/LeveridgeBruun-UCL.pdf)
+
+[Resources III](https://www.ucl.ac.uk/research/domains/sites/research_domains/files/what-is-impact.pdf)
+
+[Resources IV](https://www.mpls.ox.ac.uk/public-engagement/top-tips/funding-pathways-to-impact-and-other-funding-schemes)
+
+[Resources V](https://impact.wp.st-andrews.ac.uk/pathways-to-impact/)
 
 #### Lunch and coffees (12:30) 
 [Goodenough College](https://www.goodenough.ac.uk)
@@ -55,13 +61,16 @@ knitr::opts_chunk$set(echo = TRUE)
 #### Afternoon Sessions 
 [Goodenough College](https://www.goodenough.ac.uk)
 
-* 13:30 - Presentation of old strategy [Group and Room Allocation](https://nilswmetternich.github.io/ResearchUCLDay/Workshop1.pdf)
+* 13:30 - Presentation of old strategy 
+  + [Vision](https://liveuclac.sharepoint.com/:b:/s/PoliticalScienceDepartmentalResearchCommittee/EZQaP2RAeKBBrKZGEi_3jpQBj8CQ6U5YBjW_xt6MW-jbIQ?e=eZFuIp)
+  + [Strategy Statement](https://liveuclac.sharepoint.com/:b:/s/PoliticalScienceDepartmentalResearchCommittee/EZswjHySyP5Bgkq9qmxZln0BLMzgL-K6d4Kto0CdprwRLw?e=odwUNC)
+  + [Strategy Planning](https://liveuclac.sharepoint.com/:b:/s/PoliticalScienceDepartmentalResearchCommittee/ESK7CbXnf1NAmBHOIL9qN2QBk4Y6PYgwSHQqCI48CWWKkA?e=gf9CTq)
 
-* 14:00 - Workshop I: Values. Are values still right? [Group and Room Allocation](https://nilswmetternich.github.io/ResearchUCLDay/Workshop2.pdf)
+* 14:00 - Workshop I: Values. Are values still right?
 
 #### Coffee Break (14:45)
 
-* 15:00 - Workshop II: What is it that we want to do? How can we achieve it? [Group and Room Allocation](https://nilswmetternich.github.io/ResearchUCLDay/Workshop2.pdf)
+* 15:00 - Workshop II: What is it that we want to do? How can we achieve it?
 
 #### Drinks (16:00) 
 TBA
