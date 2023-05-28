@@ -14,7 +14,7 @@ knitr::opts_chunk$set(echo = TRUE)
 [Goodenough College](https://www.goodenough.ac.uk)
 
 * 09:20 - Coffees and pastries
-* 09:45 - Intro: Research and Impact (Alan Renwick; Christian Schuster; Nils Metternich) [presentation](https://nilswmetternich.github.io/ResearchUCLDay/ResearchAwayDayPres.pdf) 
+* 09:45 - Intro: Research and Impact (Alan Renwick; Christian Schuster; Nils Metternich)
 * 10:15 - Celebrating impact
   + [Meg Russell](https://www.ucl.ac.uk/constitution-unit/about-us/people/professor-meg-russell)
   + [Dan Honig](https://danhonig.info)
