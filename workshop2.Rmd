@@ -10,3 +10,12 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ### Thinking about how to achieve own impact
 
+Please discuss in your group:
+
+1. What aspects of my research are potentially most impactful?
+2. What current belief/practice/policy is my research challenging?
+3. How could my research contribute to changing that current belief/practice/policy?
+4. Which stakeholders are crucial in this change?
+5. Are there opportunities for knowledge co-production?
+5. How and who within UCL can help my research to achieve the impact I would like my research to make?
+

@@ -7,9 +7,13 @@ navbar:
       href: index.html
     - text: "Agenda"
       href: introduction.html
-    - text: "Workshop I"
+    - text: "Breakout I"
       href: workshop1.html
-    - text: "Workshop II"
+    - text: "Breakout II"
       href: workshop2.html
-    - text: "Research Away Day 2022"
+    - text: "Workshop I"
+      href: workshop3.html
+    - text: "Workshop II"
+      href: workshop4.html
+    - text: "Archive 2022"
       href: awayDay2022.html
