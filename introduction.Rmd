@@ -73,5 +73,9 @@ knitr::opts_chunk$set(echo = TRUE)
 * 15:00 - Workshop II: What is it that we want to do? How can we achieve it?
 
 #### Drinks (16:00) 
-TBA
+* Marquis Cornwallis (Buy YO)
+
+#### Lisa Vanhala's Inaugural Lecture (18:30) 
+* Gustave Tuck Lecture Theatre
+
 
