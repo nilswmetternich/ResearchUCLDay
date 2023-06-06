@@ -24,12 +24,14 @@ knitr::opts_chunk$set(echo = TRUE)
   + [Inken von Borzyskowski](https://www.borzyskowski.net)
   + [Fergus Green](https://fergusgreen.net)
   
-* 10:45 - Breakout: My impact, my ambition
+* 10:45 - [Breakout I](https://nilswmetternich.github.io/ResearchUCLDay/workshop1.html): My impact, my ambition
 
+Read-on:
 
-[Effects of evidence-use in public policy](https://sumtxt.github.io/DEPP/course/course-10.html)
-
-
+* [Effects of evidence-use in public policy](https://sumtxt.github.io/DEPP/course/course-10.html)
+* [The Impact of the Social Sciences](https://methods.sagepub.com/book/the-impact-of-the-social-sciences)
+* [Understanding the Societal Impact of the Social Sciences and Humanities](https://www.frontiersin.org/articles/10.3389/frma.2021.696804/full)
+* [Four models of research-policy relations](https://www.nature.com/articles/s41599-017-0042-z)
 
 #### Coffee Break (11:00)
 
@@ -37,9 +39,12 @@ knitr::opts_chunk$set(echo = TRUE)
 
 * 11:15 - Ways to support your impact 
   + Marc Stears and/or Christian Schuster (Policy Lab)
-  + Mariana Trejo (UCL Knowledge Exchange) 
-* 11:30 - Grant writing and impact (Helen Stark)  
-* 11:45 - Breakout: Thinking about how to achieve own impact
+  + [Mariana Trejo](https://www.ucl.ac.uk/enterprise/about/meet-team/knowledge-exchange-funding-and-finance) ([UCL Knowledge Exchange](https://www.ucl.ac.uk/enterprise/staff/access-funding/knowledge-exchange-and-innovation-funding)) 
+* 11:30 - Grant writing and impact 
+  + [Helen Stark](https://www.ucl.ac.uk/social-historical-sciences/news/2022/oct/staff-spotlight-helen-stark)
+    + [Talk resource I](https://liveuclac.sharepoint.com/sites/AH-SHSIntranet/SitePages/Joint-Faculties-Research.aspx)
+    + [Talk resource II](https://www.ucl.ac.uk/research/support-staff/funding-ucl-research-innovation-global-engagement)
+* 11:45 - [Breakout II](https://nilswmetternich.github.io/ResearchUCLDay/workshop2.html): Thinking about how to achieve own impact
 
 * 12:15 - REF and Impact (Alan Renwick)
 
