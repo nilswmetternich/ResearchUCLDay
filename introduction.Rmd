@@ -15,7 +15,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 * 09:20 - Coffees and pastries
 * 09:45 - Intro: Research and Impact (Alan Renwick; Christian Schuster; Nils Metternich)
-* 10:15 - Celebrating impact
+* 10:15 - Celebrating impact [Presentations](https://liveuclac-my.sharepoint.com/:f:/g/personal/uctqnm0_ucl_ac_uk/EobKaIRm2-JMi4oZWcGHPusBeEtoipK__nX9DE3ovj17-w?e=YowXNx)
   + [Meg Russell](https://www.ucl.ac.uk/constitution-unit/about-us/people/professor-meg-russell)
   + [Dan Honig](https://danhonig.info)
   + [Lauge Poulsen](https://www.ucl.ac.uk/political-science/people/academic-teaching-and-research-staff/professor-lauge-poulsen)
@@ -37,8 +37,8 @@ Read-on:
 
 #### Morning session 2 
 
-* 11:15 - Ways to support your impact 
-  + Marc Stears and/or Christian Schuster (Policy Lab)
+* 11:15 - Ways to support your impact [Presentations](https://liveuclac-my.sharepoint.com/:f:/g/personal/uctqnm0_ucl_ac_uk/EobKaIRm2-JMi4oZWcGHPusBeEtoipK__nX9DE3ovj17-w?e=YowXNx) 
+  + [Christian Schuster](https://www.christianschuster.net) ([Policy Lab](https://www.ucl.ac.uk/policy-lab/ucl-policy-lab))
   + [Mariana Trejo](https://www.ucl.ac.uk/enterprise/about/meet-team/knowledge-exchange-funding-and-finance) ([UCL Knowledge Exchange](https://www.ucl.ac.uk/enterprise/staff/access-funding/knowledge-exchange-and-innovation-funding)) 
 * 11:30 - Grant writing and impact 
   + [Helen Stark](https://www.ucl.ac.uk/social-historical-sciences/news/2022/oct/staff-spotlight-helen-stark)
@@ -46,7 +46,7 @@ Read-on:
     + [Talk resource II](https://www.ucl.ac.uk/research/support-staff/funding-ucl-research-innovation-global-engagement)
 * 11:45 - [Breakout II](https://nilswmetternich.github.io/ResearchUCLDay/workshop2.html): Thinking about how to achieve own impact
 
-* 12:15 - REF and Impact (Alan Renwick)
+* 12:15 - REF and Impact ([Alan Renwick](https://www.ucl.ac.uk/constitution-unit/about-us/people/professor-alan-renwick))
 
 Read-on:
 
