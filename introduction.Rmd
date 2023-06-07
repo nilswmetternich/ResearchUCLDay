@@ -11,25 +11,27 @@ knitr::opts_chunk$set(echo = TRUE)
 
 
 #### Morning session 1 
-[Goodenough College](https://www.goodenough.ac.uk) [[Location](https://goo.gl/maps/cexnUGb41a4Li7hd6)]
+[Goodenough College](https://www.goodenough.ac.uk)[[Location](https://goo.gl/maps/cexnUGb41a4Li7hd6)]
 
 * 09:20 - Coffees and pastries
 * 09:45 - Intro: Research and Impact (Alan Renwick; Christian Schuster; Nils Metternich)
 * 10:15 - Celebrating impact
   + [Meg Russell](https://www.ucl.ac.uk/constitution-unit/about-us/people/professor-meg-russell)
-  + [Dan Honig](https://danhonig.info) [[slides](https://nilswmetternich.github.io/ResearchUCLDay/Honig_pres.pdf)]
+  + [Dan Honig](https://danhonig.info)
   + [Lauge Poulsen](https://www.ucl.ac.uk/political-science/people/academic-teaching-and-research-staff/professor-lauge-poulsen)
   + [Veronika Fikfak](https://www.humanrightsnudge.com)
   + [Moritz Marbach](https://moritz-marbach.com)
   + [Inken von Borzyskowski](https://www.borzyskowski.net)
   + [Fergus Green](https://fergusgreen.net)
   
-* 10:45 - Breakout: My impact, my ambition
+* 10:45 - [Breakout I](https://nilswmetternich.github.io/ResearchUCLDay/workshop1.html): My impact, my ambition
 
+Read-on:
 
-[Effects of evidence-use in public policy](https://sumtxt.github.io/DEPP/course/course-10.html)
-
-
+* [Effects of evidence-use in public policy](https://sumtxt.github.io/DEPP/course/course-10.html)
+* [The Impact of the Social Sciences](https://methods.sagepub.com/book/the-impact-of-the-social-sciences)
+* [Understanding the Societal Impact of the Social Sciences and Humanities](https://www.frontiersin.org/articles/10.3389/frma.2021.696804/full)
+* [Four models of research-policy relations](https://www.nature.com/articles/s41599-017-0042-z)
 
 #### Coffee Break (11:00)
 
@@ -37,26 +39,27 @@ knitr::opts_chunk$set(echo = TRUE)
 
 * 11:15 - Ways to support your impact 
   + Marc Stears and/or Christian Schuster (Policy Lab)
-  + Mariana Trejo (UCL Knowledge Exchange) 
-* 11:30 - Grant writing and impact (Helen Stark)  
-* 11:45 - Breakout: Thinking about how to achieve own impact
+  + [Mariana Trejo](https://www.ucl.ac.uk/enterprise/about/meet-team/knowledge-exchange-funding-and-finance) ([UCL Knowledge Exchange](https://www.ucl.ac.uk/enterprise/staff/access-funding/knowledge-exchange-and-innovation-funding)) 
+* 11:30 - Grant writing and impact 
+  + [Helen Stark](https://www.ucl.ac.uk/social-historical-sciences/news/2022/oct/staff-spotlight-helen-stark)
+    + [Talk resource I](https://liveuclac.sharepoint.com/sites/AH-SHSIntranet/SitePages/Joint-Faculties-Research.aspx)
+    + [Talk resource II](https://www.ucl.ac.uk/research/support-staff/funding-ucl-research-innovation-global-engagement)
+* 11:45 - [Breakout II](https://nilswmetternich.github.io/ResearchUCLDay/workshop2.html): Thinking about how to achieve own impact
 
 * 12:15 - REF and Impact (Alan Renwick)
 
+Read-on:
 
-
-[Resources I](https://www.research-strategy.admin.cam.ac.uk/pathwaytoimpact/index.html)
-
-[Resources II](https://www.eui.eu/Documents/MWP/AcademicCareers/ACO-conf-201819/LeveridgeBruun-UCL.pdf)
-
-[Resources III](https://www.ucl.ac.uk/research/domains/sites/research_domains/files/what-is-impact.pdf)
-
-[Resources IV](https://www.mpls.ox.ac.uk/public-engagement/top-tips/funding-pathways-to-impact-and-other-funding-schemes)
-
-[Resources V](https://impact.wp.st-andrews.ac.uk/pathways-to-impact/)
+* [Resources I](https://www.research-strategy.admin.cam.ac.uk/pathwaytoimpact/index.html)
+* [Resources II](https://www.eui.eu/Documents/MWP/AcademicCareers/ACO-conf-201819/LeveridgeBruun-UCL.pdf)
+* [Resources III](https://www.ucl.ac.uk/research/domains/sites/research_domains/files/what-is-impact.pdf)
+* [Resources IV](https://www.mpls.ox.ac.uk/public-engagement/top-tips/funding-pathways-to-impact-and-other-funding-schemes)
+* [Resources V](https://impact.wp.st-andrews.ac.uk/pathways-to-impact/)
 
 #### Lunch and coffees (12:30) 
 [Goodenough College](https://www.goodenough.ac.uk)
+
+* Addressing Research Design Course: Lucy Barnes and Lisa Vanhala
 
 #### Afternoon Sessions 
 [Goodenough College](https://www.goodenough.ac.uk)
@@ -73,8 +76,8 @@ knitr::opts_chunk$set(echo = TRUE)
 * 15:00 - Workshop II: What is it that we want to do? How can we achieve it?
 
 #### Drinks (16:00) 
-* Marquis Cornwallis (B(uy)YO)
+* Marquis Cornwallis (Buy YO)
 
-#### Inaugral Lecture Lisa Vanhala (18:00) 
-* Location
+#### Lisa Vanhala's Inaugural Lecture (18:30) 
+* Gustave Tuck Lecture Theatre
 
