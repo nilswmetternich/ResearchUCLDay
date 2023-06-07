@@ -8,6 +8,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 1. Looking at the [Strategy Statement](https://liveuclac.sharepoint.com/:b:/s/PoliticalScienceDepartmentalResearchCommittee/EZswjHySyP5Bgkq9qmxZln0BLMzgL-K6d4Kto0CdprwRLw?e=odwUNC) document:
   * What are two new or existing points that should be included in the `Areas of development/strategic needs'
+  * Please note on post-its
 
 2. Looking at the [Strategy Planning](https://liveuclac.sharepoint.com/:b:/s/PoliticalScienceDepartmentalResearchCommittee/ESK7CbXnf1NAmBHOIL9qN2QBk4Y6PYgwSHQqCI48CWWKkA?e=gf9CTq) document
   * How can the identified `Areas of development and strategic needs' be translated into actionable activities. 
+  * Please note on post-its
