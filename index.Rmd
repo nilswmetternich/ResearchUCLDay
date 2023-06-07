@@ -8,7 +8,7 @@ output: html_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-Location: [Goodenough College](https://www.goodenough.ac.uk)
+Location: [Goodenough College](https://www.goodenough.ac.uk) [[Location](https://goo.gl/maps/cexnUGb41a4Li7hd6)]
 
 ## Welcome
 
