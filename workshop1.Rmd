@@ -8,17 +8,6 @@ title: "Breakout I"
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-### My impact, my ambition
-
-In this breakout we would like you to discuss and note down (on the provided Post-Its):
-
-1) Discuss the main impact activity you are engaging in and/or the main impact your research has had/is having.
-
-2) In a second step, discuss the type of impact you would like your research to have. Please post the note on the provided wall according to impact type and stake holder.
-
-
-
-
-
+### TBA
 
 

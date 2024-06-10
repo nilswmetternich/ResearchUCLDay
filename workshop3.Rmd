@@ -1,5 +1,5 @@
 ---
-title: "Workshop I: Values. Are values still right?"
+title: "Workshop I: Impact Stategy"
 ---
 
 ```{r setup, include=FALSE}
@@ -7,9 +7,4 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 
-1. Looking at the [Vision](https://liveuclac.sharepoint.com/:b:/s/PoliticalScienceDepartmentalResearchCommittee/EZQaP2RAeKBBrKZGEi_3jpQBj8CQ6U5YBjW_xt6MW-jbIQ?e=eZFuIp) document:
-  * Do you see decisions made and practises in the department largely in line with the stated values?
-  * Are these still the right values going forward?
-  * Are there values that need to be strengthened or added to guide decision-making and practise in the department. 
-
-2. Please present you discussion briefly to the forum.
+### TBA

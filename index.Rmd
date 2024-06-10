@@ -1,7 +1,7 @@
 ---
-title: "Research Away Day 2023"
+title: "Research Away Day 2024"
 author: "UCL Department of Political Science"
-date: "8 Juni 2023"
+date: "20 Juni 2024"
 output: html_document
 ---
 

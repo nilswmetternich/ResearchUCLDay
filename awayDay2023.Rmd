@@ -1,0 +1,124 @@
+---
+title: "Archive: Research Away Day 2023"
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+
+#### Morning session 1 
+[Goodenough College](https://www.goodenough.ac.uk)[[Location](https://goo.gl/maps/cexnUGb41a4Li7hd6)]
+
+* 09:20 - Coffees and pastries
+* 09:45 - Intro: Research and Impact (Alan Renwick; Christian Schuster; Nils Metternich)
+* 10:15 - Celebrating impact [Presentations](https://liveuclac-my.sharepoint.com/:f:/g/personal/uctqnm0_ucl_ac_uk/EobKaIRm2-JMi4oZWcGHPusBeEtoipK__nX9DE3ovj17-w?e=YowXNx)
+  + [Meg Russell](https://www.ucl.ac.uk/constitution-unit/about-us/people/professor-meg-russell)
+  + [Dan Honig](https://danhonig.info)
+  + [Lauge Poulsen](https://www.ucl.ac.uk/political-science/people/academic-teaching-and-research-staff/professor-lauge-poulsen)
+  + [Veronika Fikfak](https://www.humanrightsnudge.com)
+  + [Moritz Marbach](https://moritz-marbach.com)
+  + [Inken von Borzyskowski](https://www.borzyskowski.net)
+  + [Fergus Green](https://fergusgreen.net)
+  
+* 10:45 - [Breakout I](https://nilswmetternich.github.io/ResearchUCLDay/workshop1.html): My impact, my ambition
+
+Read-on:
+
+* [Effects of evidence-use in public policy](https://sumtxt.github.io/DEPP/course/course-10.html)
+* [The Impact of the Social Sciences](https://methods.sagepub.com/book/the-impact-of-the-social-sciences)
+* [Understanding the Societal Impact of the Social Sciences and Humanities](https://www.frontiersin.org/articles/10.3389/frma.2021.696804/full)
+* [Four models of research-policy relations](https://www.nature.com/articles/s41599-017-0042-z)
+
+#### Coffee Break (11:00)
+
+#### Morning session 2 
+
+* 11:15 - Ways to support your impact [Presentations](https://liveuclac-my.sharepoint.com/:f:/g/personal/uctqnm0_ucl_ac_uk/EobKaIRm2-JMi4oZWcGHPusBeEtoipK__nX9DE3ovj17-w?e=YowXNx) 
+  + [Christian Schuster](https://www.christianschuster.net) ([Policy Lab](https://www.ucl.ac.uk/policy-lab/ucl-policy-lab))
+  + [Mariana Trejo](https://www.ucl.ac.uk/enterprise/about/meet-team/knowledge-exchange-funding-and-finance) ([UCL Knowledge Exchange](https://www.ucl.ac.uk/enterprise/staff/access-funding/knowledge-exchange-and-innovation-funding)) 
+* 11:30 - Grant writing and impact 
+  + [Helen Stark](https://www.ucl.ac.uk/social-historical-sciences/news/2022/oct/staff-spotlight-helen-stark)
+    + [Talk resource I](https://liveuclac.sharepoint.com/sites/AH-SHSIntranet/SitePages/Joint-Faculties-Research.aspx)
+    + [Talk resource II](https://www.ucl.ac.uk/research/support-staff/funding-ucl-research-innovation-global-engagement)
+* 11:45 - [Breakout II](https://nilswmetternich.github.io/ResearchUCLDay/workshop2.html): Thinking about how to achieve own impact
+
+* 12:15 - REF and Impact ([Alan Renwick](https://www.ucl.ac.uk/constitution-unit/about-us/people/professor-alan-renwick))
+
+Read-on:
+
+* [Resources I](https://www.research-strategy.admin.cam.ac.uk/pathwaytoimpact/index.html)
+* [Resources II](https://www.eui.eu/Documents/MWP/AcademicCareers/ACO-conf-201819/LeveridgeBruun-UCL.pdf)
+* [Resources III](https://www.ucl.ac.uk/research/domains/sites/research_domains/files/what-is-impact.pdf)
+* [Resources IV](https://www.mpls.ox.ac.uk/public-engagement/top-tips/funding-pathways-to-impact-and-other-funding-schemes)
+* [Resources V](https://impact.wp.st-andrews.ac.uk/pathways-to-impact/)
+
+#### Lunch and coffees (12:30) 
+[Goodenough College](https://www.goodenough.ac.uk)
+
+* Addressing Research Design Course: Lucy Barnes and Lisa Vanhala
+
+#### Afternoon Sessions 
+[Goodenough College](https://www.goodenough.ac.uk)
+
+* 13:30 - Presentation of old strategy 
+  + [Vision](https://liveuclac.sharepoint.com/:b:/s/PoliticalScienceDepartmentalResearchCommittee/EZQaP2RAeKBBrKZGEi_3jpQBj8CQ6U5YBjW_xt6MW-jbIQ?e=eZFuIp)
+  + [Strategy Statement](https://liveuclac.sharepoint.com/:b:/s/PoliticalScienceDepartmentalResearchCommittee/EZswjHySyP5Bgkq9qmxZln0BLMzgL-K6d4Kto0CdprwRLw?e=odwUNC)
+  + [Strategy Planning](https://liveuclac.sharepoint.com/:b:/s/PoliticalScienceDepartmentalResearchCommittee/ESK7CbXnf1NAmBHOIL9qN2QBk4Y6PYgwSHQqCI48CWWKkA?e=gf9CTq)
+
+* 14:00 - Workshop I: Values. Are values still right?
+
+#### Coffee Break (14:45)
+
+* 15:00 - Workshop II: What is it that we want to do? How can we achieve it?
+
+#### Drinks (16:00) 
+* Marquis Cornwallis (Buy YO)
+
+#### Lisa Vanhala's Inaugural Lecture (18:30) 
+* Gustave Tuck Lecture Theatre
+
+
+### My impact, my ambition
+
+In this breakout we would like you to discuss and note down (on the provided Post-Its):
+
+1) Discuss the main impact activity you are engaging in and/or the main impact your research has had/is having.
+
+2) In a second step, discuss the type of impact you would like your research to have. Please post the note on the provided wall according to impact type and stake holder.
+
+
+### Thinking about how to achieve own impact
+
+Please discuss in your group:
+
+1. What aspects of my research are potentially most impactful?
+2. What current belief/practice/policy is my research challenging?
+3. How could my research contribute to changing that current belief/practice/policy?
+4. Which stakeholders are crucial in this change?
+5. Are there opportunities for knowledge co-production?
+5. How and who within UCL can help my research to achieve the impact I would like my research to make?
+
+### Vision statement
+
+1. Looking at the [Vision](https://liveuclac.sharepoint.com/:b:/s/PoliticalScienceDepartmentalResearchCommittee/EZQaP2RAeKBBrKZGEi_3jpQBj8CQ6U5YBjW_xt6MW-jbIQ?e=eZFuIp) document:
+  * Do you see decisions made and practises in the department largely in line with the stated values?
+  * Are these still the right values going forward?
+  * Are there values that need to be strengthened or added to guide decision-making and practise in the department. 
+
+2. Please present you discussion briefly to the forum.
+
+### Strategy statement
+
+
+1. Looking at the [Strategy Statement](https://liveuclac.sharepoint.com/:b:/s/PoliticalScienceDepartmentalResearchCommittee/EZswjHySyP5Bgkq9qmxZln0BLMzgL-K6d4Kto0CdprwRLw?e=odwUNC) document:
+  * What are two new or existing points that should be included in the `Areas of development/strategic needs'
+  * Please note on post-its
+
+2. Looking at the [Strategy Planning](https://liveuclac.sharepoint.com/:b:/s/PoliticalScienceDepartmentalResearchCommittee/ESK7CbXnf1NAmBHOIL9qN2QBk4Y6PYgwSHQqCI48CWWKkA?e=gf9CTq) document
+  * How can the identified `Areas of development and strategic needs' be translated into actionable activities. 
+  * Please note on post-its
+
+
