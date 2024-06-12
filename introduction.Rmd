@@ -17,9 +17,10 @@ knitr::opts_chunk$set(echo = TRUE)
 * 09:45 - Intro: Our Research Environment (Nils Metternich)
 * 10:00 - Celebrating (not-yet) grant successes
   <!-- + [Meg Russell](https://www.ucl.ac.uk/constitution-unit/about-us/people/professor-meg-russell) -->
-  <!-- + [Lauge Poulsen](https://www.ucl.ac.uk/political-science/people/academic-teaching-and-research-staff/professor-lauge-poulsen) -->
-  <!-- + [Veronika Fikfak](https://www.humanrightsnudge.com) -->
-  
+  + [Veronika Fikfak](https://www.humanrightsnudge.com)
+  + [Zeynep Bulutgil](https://www.zeynepbulutgil.com)
+  + [Kate Cronin-Furman](http://www.katecroninfurman.com)
+  + TBA
 * 10:45 - [Breakout I](https://nilswmetternich.github.io/ResearchUCLDay/workshop1.html): The one-thing to support my grant application
 
 Read-on:
@@ -35,8 +36,8 @@ Read-on:
 
 * 11:15 - Ways to support your grant applications 
   + [Christian Schuster](https://www.christianschuster.net) ([Policy Lab](https://www.ucl.ac.uk/policy-lab/ucl-policy-lab))
-  + [Steve Morrison]
-  + [Gianluca Marchiori]
+  + Steve Morrison
+  + Gianluca Marchiori
     <!-- + [Talk resource I](https://liveuclac.sharepoint.com/sites/AH-SHSIntranet/SitePages/Joint-Faculties-Research.aspx) -->
     <!-- + [Talk resource II](https://www.ucl.ac.uk/research/support-staff/funding-ucl-research-innovation-global-engagement) -->
 * 12:00 - [Breakout II](https://nilswmetternich.github.io/ResearchUCLDay/workshop2.html): Thinking about how to plan your grant applications
