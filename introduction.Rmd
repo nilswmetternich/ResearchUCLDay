@@ -66,8 +66,8 @@ Read-on:
 * 14:15 - Inclusive research environment
   
 * 14:45 - Workshop II: Planning Document
-  + [Vision](https://liveuclac.sharepoint.com/:b:/s/PoliticalScienceDepartmentalResearchCommittee/EZQaP2RAeKBBrKZGEi_3jpQBj8CQ6U5YBjW_xt6MW-jbIQ?e=eZFuIp)
-  + [Strategy Statement](https://liveuclac.sharepoint.com/:b:/s/PoliticalScienceDepartmentalResearchCommittee/EZswjHySyP5Bgkq9qmxZln0BLMzgL-K6d4Kto0CdprwRLw?e=odwUNC)
+  + [Vision](https://nilswmetternich.github.io/ResearchUCLDay/vision.pdf)
+  + [Strategy Statement](https://nilswmetternich.github.io/ResearchUCLDay/strategy.pdf)
   + [Strategy Planning](https://liveuclac.sharepoint.com/:b:/s/PoliticalScienceDepartmentalResearchCommittee/ESK7CbXnf1NAmBHOIL9qN2QBk4Y6PYgwSHQqCI48CWWKkA?e=gf9CTq)
 
 
