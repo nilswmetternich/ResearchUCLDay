@@ -48,7 +48,7 @@ Read-on:
 <!-- * [Resources II](https://www.eui.eu/Documents/MWP/AcademicCareers/ACO-conf-201819/LeveridgeBruun-UCL.pdf) -->
 <!-- * [Resources III](https://www.ucl.ac.uk/research/domains/sites/research_domains/files/what-is-impact.pdf) -->
 <!-- * [Resources IV](https://www.mpls.ox.ac.uk/public-engagement/top-tips/funding-pathways-to-impact-and-other-funding-schemes) -->
-<!-- * [Resources V](https://impact.wp.st-andrews.ac.uk/pathways-to-impact/) -->
+* [Departmental Reseach Intranet](https://liveuclac.sharepoint.com/sites/PolSciIntranet/SitePages/Research.aspx)
 
 
 #### Lunch and coffees (12:30) 
@@ -64,11 +64,10 @@ Read-on:
 #### Coffee Break (14:00)
 
 * 14:15 - Inclusive research environment
-  
 * 14:45 - Workshop II: Planning Document
   + [Vision](https://nilswmetternich.github.io/ResearchUCLDay/vision.pdf)
   + [Strategy Statement](https://nilswmetternich.github.io/ResearchUCLDay/strategy.pdf)
-  + [Strategy Planning](https://liveuclac.sharepoint.com/:b:/s/PoliticalScienceDepartmentalResearchCommittee/ESK7CbXnf1NAmBHOIL9qN2QBk4Y6PYgwSHQqCI48CWWKkA?e=gf9CTq)
+  + [Strategy Planning](https://nilswmetternich.github.io/ResearchUCLDay/StrategyPlanning.pdf)
 
 
 #### Drinks (16:00) 

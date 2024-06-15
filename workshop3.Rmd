@@ -7,4 +7,4 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 
-### TBA
+### Discussion of Departmental Research Strategy

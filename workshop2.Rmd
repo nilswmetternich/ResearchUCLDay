@@ -8,4 +8,8 @@ title: "Breakout II"
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-### TBA
+### Thinking about how to plan your grant applications
+
+* What would help you best to plan your grant applications? 
+* Where could the department, faculty, university help?
+

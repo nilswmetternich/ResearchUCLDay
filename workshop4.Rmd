@@ -6,4 +6,7 @@ title: "Workshop II: What is it that we want to do? How can we achieve it?"
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-### TBA
+### Strategy planning document
+
+* Given the strategy statement, what are concrete things we should be doing to achieve our goals?
+* This input will inform the stategy planning document
