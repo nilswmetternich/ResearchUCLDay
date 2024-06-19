@@ -23,12 +23,6 @@ knitr::opts_chunk$set(echo = TRUE)
   + [Lucy Barnes](https://www.ucl.ac.uk/political-science/people/academic-teaching-and-research-staff/dr-lucy-barnes)
 * 10:45 - [Breakout I](https://nilswmetternich.github.io/ResearchUCLDay/workshop1.html): The one-thing to support my grant application
 
-Read-on:
-
-<!-- * [Effects of evidence-use in public policy](https://sumtxt.github.io/DEPP/course/course-10.html) -->
-<!-- * [The Impact of the Social Sciences](https://methods.sagepub.com/book/the-impact-of-the-social-sciences) -->
-<!-- * [Understanding the Societal Impact of the Social Sciences and Humanities](https://www.frontiersin.org/articles/10.3389/frma.2021.696804/full) -->
-<!-- * [Four models of research-policy relations](https://www.nature.com/articles/s41599-017-0042-z) -->
 
 #### Coffee Break (11:00)
 
@@ -64,10 +58,24 @@ Read-on:
 #### Coffee Break (14:00)
 
 * 14:15 - Inclusive research environment
+
+Read-on:
+  * [Data, measurement and empirical methods in the science of science](https://www.nature.com/articles/s41562-023-01562-4)
+  * [Gender and retention patterns among U.S. faculty](https://www.science.org/doi/full/10.1126/sciadv.adi2205) 
+  * [The unequal impact of parenthood in academia](https://www.science.org/doi/full/10.1126/sciadv.abd1996) 
+  * [Untangling the network effects of productivity and prominence among scientists](https://www.nature.com/articles/s41467-022-32604-6)
+  * [The Gender Citation Gap in International Relations](https://www.cambridge.org/core/journals/international-organization/article/gender-citation-gap-in-international-relations/3A769C5CFA7E24C32641CDB2FD03126A)
+  * [Interdisciplinary researchers attain better long-term funding performance](https://www.nature.com/articles/s42005-021-00769-z)
+  * [The Diversity–Innovation Paradox in Science](https://www.pnas.org/doi/full/10.1073/pnas.1915378117#sec-2)
+  * [The preeminence of ethnic diversity in scientific collaboration](https://www.nature.com/articles/s41467-018-07634-8)
+  * [Gender diversity leads to better science](https://www.pnas.org/doi/full/10.1073/pnas.1700616114?doi=10.1073/pnas.1700616114)
+
 * 14:45 - Workshop II: Planning Document
   + [Vision](https://nilswmetternich.github.io/ResearchUCLDay/vision.pdf)
   + [Strategy Statement](https://nilswmetternich.github.io/ResearchUCLDay/strategy.pdf)
   + [Strategy Planning](https://nilswmetternich.github.io/ResearchUCLDay/StrategyPlanning.pdf)
+
+Read-on:
 
 
 #### Drinks (16:00) 
