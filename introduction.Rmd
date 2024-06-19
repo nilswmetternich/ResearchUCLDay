@@ -14,7 +14,7 @@ knitr::opts_chunk$set(echo = TRUE)
 [Goodenough College](https://www.goodenough.ac.uk)[[Location](https://goo.gl/maps/cexnUGb41a4Li7hd6)]
 
 * 09:20 - Coffees and pastries
-* 09:45 - Intro: Our Research Environment (Nils Metternich)
+* 09:45 - Intro: Our Research Environment (Nils Metternich) [Input](https://nilswmetternich.github.io/ResearchUCLDay/ResearchAwayDayPres2024.pdf)
 * 10:00 - Celebrating (not-yet) grant successes
   + [Meg Russell](https://www.ucl.ac.uk/constitution-unit/about-us/people/professor-meg-russell)
   + [Veronika Fikfak](https://www.humanrightsnudge.com)
@@ -57,7 +57,7 @@ Read-on:
 
 #### Coffee Break (14:00)
 
-* 14:15 - Inclusive research environment
+* 14:15 - Inclusive research environment [Input](https://nilswmetternich.github.io/ResearchUCLDay/ResearchAwayDayPresPart2024.pdf)
 
 Read-on:
   * [Data, measurement and empirical methods in the science of science](https://www.nature.com/articles/s41562-023-01562-4)
