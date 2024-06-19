@@ -29,7 +29,7 @@ knitr::opts_chunk$set(echo = TRUE)
 #### Morning session 2 
 
 * 11:15 - Ways to support your grant applications 
-  + [Christian Schuster](https://www.christianschuster.net) ([Policy Lab](https://www.ucl.ac.uk/policy-lab/ucl-policy-lab))
+  + [Christian Schuster](https://www.christianschuster.net) ([Policy Lab](https://www.ucl.ac.uk/policy-lab/ucl-policy-lab)) [Slides](https://nilswmetternich.github.io/ResearchUCLDay/PolicyLab-PolSciResearchAwayDay.pdf)
   + [Steve Morrison](https://www.ucl.ac.uk/research/staff-students/lash-and-ioe-research-facilitation-and-coordination-team/how-we-can-help-you) Senior School Research Facilitator, LASH & IOE [Slides](https://nilswmetternich.github.io/ResearchUCLDay/morrison_pres2.pdf)
   + [Gianluca Marchiori](https://www.ucl.ac.uk/research-innovation-services/award-services/erio/european-contract-services) European Research Manager (European Research and Innovation Office)
     <!-- + [Talk resource I](https://liveuclac.sharepoint.com/sites/AH-SHSIntranet/SitePages/Joint-Faculties-Research.aspx) -->
